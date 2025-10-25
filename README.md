@@ -35,25 +35,68 @@ I’m currently developing portfolio projects that engineer compliance automatio
 
 ---
 
-## Technical Skills  
+## Technical Skills
 
-### Governance & Risk Frameworks  
-- NIST AI Risk Management Framework (AI RMF)  
-- ISO/IEC 27001 & 42001  
-- CIS Controls IG1 Implementation  
-- Risk Register & Control Testing Development  
+### AI Governance & Security Frameworks
+- NIST AI Risk Management Framework (NIST AI RMF)
+- ISO/IEC 42001 (AIMS)
+- MITRE ATLAS (Adversarial Threat Landscape)
+- OWASP GenAI Security Project Top 10 for LLM and Generative AI
+- CIS Controls v8.1 (AI Safeguards)
+- EU AI Act & U.S. AI Policy Guidelines
 
-### GRC Engineering & Automation  
-- Policy-as-Code concepts (OPA, Terraform Compliance)  
-- Continuous Control Monitoring (CCM) workflows  
-- Security Assessment & Audit Evidence Automation  
-- Python & Markdown for documentation and reporting  
+### Governance, Risk & Compliance (GRC)
+- ISO/IEC 27001 (ISMS)
+- NIST Cybersecurity Framework (CSF)
+- Risk Register & Control Testing Development
+- Audit Readiness & Evidence Automation
+- Policy Development & Compliance Mapping
 
-### Cloud & Security Domains  
-- Cloud Security Fundamentals (AWS, GCP)  
-- Identity and Access Management (IAM)  
-- Privacy & Data Protection Principles (GDPR, HIPAA)  
-- Incident Response and Risk Communication  
+### GRC Engineering & Automation
+- Policy-as-Code (PaC)
+- Risk-and-Compliance-as-Code (RCaC)
+- Continuous Control Monitoring (CCM)
+- Security Assessment Automation
+- Python & Markdown for Documentation and Reporting
+- API & Workflow Integration
+
+### Cloud & Data Security Domains
+- Cloud Security Fundamentals (AWS • Microsoft Azure • Google Cloud • Oracle Cloud Infrastructure)
+- Service Models (SaaS • PaaS • IaaS) & Deployment Models (Public • Private • Hybrid)
+- Identity & Access Management (IAM)
+- Data Governance & Privacy (GDPR • HIPAA • ISO/IEC 27701)
+- Cloud Threats & Misconfigurations
+- Cloud Security Posture Management (CSPM)
+
+### AI Governance & Security Frameworks
+- NIST AI Risk Management Framework (AI RMF)
+- ISO/IEC 42001:2023 (AI Management System – AIMS)
+- MITRE ATLAS (Adversarial Threat Landscape for AI Systems)
+- OWASP GenAI Security Project – Top 10 for LLM and Generative AI
+- CIS Controls v8.1 (AI Safeguards)
+- EU AI Act & U.S. AI Policy Guidelines
+
+### Governance, Risk & Compliance (GRC)
+- ISO/IEC 27001 (Information Security Management System – ISMS)
+- NIST Cybersecurity Framework (CSF)
+- Risk Register & Control Testing Development
+- Audit Readiness & Evidence Automation
+- Policy Development & Compliance Mapping
+
+### GRC Engineering & Automation
+- Policy-as-Code (PaC) & Risk-and-Compliance-as-Code (RCaC)
+- Continuous Control Monitoring (CCM)
+- Security Assessment & Audit Evidence Automation
+- Python & Markdown for Documentation and Reporting
+- API & Workflow Integration
+
+### Cloud & Data Security Domains
+- Cloud Security Fundamentals — AWS • Microsoft Azure • Google Cloud • Oracle Cloud Infrastructure
+- Service Models (SaaS • PaaS • IaaS) & Deployment Models (Public • Private • Hybrid)
+- Identity & Access Management (IAM) — OAuth • SAML • OpenID Connect • MFA • RBAC
+- Cloud Threats & Misconfigurations — Exposure, Credential Theft, Vulnerability Identification
+- Cloud Security Posture Management (CSPM) & Security Automation
+- Data Governance & Privacy — GDPR • HIPAA • ISO/IEC 27701
 
 ---
 
@@ -71,13 +114,16 @@ I’m currently developing portfolio projects that engineer compliance automatio
 **Skills Demonstrated:** AI governance | Vendor risk assessment | Data provenance | NIST AI RMF + ISO/IEC 42001 alignment
 **Implementation Details:**
 - Expanded vendor questionnaire to include AI model governance, data integrity, and bias mitigation controls.
-- Analyzed vendor maturity using NIST AI RMF’s Govern–Map–Measure–Manage functions and NIST CSF 2.0 domains.
-- Produced AI-aware vendor risk report with heatmap visualization and a remediation roadmap for Responsible AI compliance.
+- Analyzed vendor maturity using NIST AI RMF’s **Govern–Map–Measure–Manage** functions and NIST CSF 2.0 domains.
+- Produced AI-aware vendor risk report with **heatmap visualization** and a remediation roadmap for Responsible AI compliance.
+
 **Results:** Delivered an integrated AI supply-chain risk profile aligning cybersecurity and Responsible AI oversight.
-![AI Supply Chain Risk Heatmap]
-**Figure:** This heatmap visualizes Horizon Labs’ control gaps across NIST AI RMF functions (Govern, Map, Measure, Manage) and severity levels.
-High-severity risks cluster in Govern (lack of accountability) and Manage (absence of vulnerability management and AI incident response).
-The visualization demonstrates how AI supply chain risk extends beyond cybersecurity to include trustworthiness, transparency, and oversight.
+![AI Supply Chain Risk Heatmap](assets/images/Horizon_Labs_AI_TPRM_Heatmap.png)
+**Figure:** This heatmap visualizes Horizon Labs’ control gaps across **NIST AI RMF functions (Govern, Map, Measure, Manage)** and severity levels.
+High-severity risks cluster in **Govern** (lack of accountability) and **Manage** (absence of vulnerability management and AI incident response).
+The visualization demonstrates how AI supply chain risk extends beyond cybersecurity to include **trustworthiness, transparency, and oversight**.
+
+[Link to detailed implementation in my GitHub repository](projects/AI_Supply-Chain_Risk_Assessment)
 
 ---
 
