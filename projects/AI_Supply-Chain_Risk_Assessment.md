@@ -15,6 +15,7 @@ Horizon Labs provides AI-driven data analytics services supporting Oscorp’s bi
 Because the SaaS platform processes **scientific and potentially health-related data** through **machine learning models**, the engagement expanded beyond traditional cybersecurity risk to include **AI-specific governance, transparency, and data-integrity risks**.
 
 The assessment, aligned with **NIST AI RMF** and **ISO/IEC 42001**, identified governance and technical gaps across data provenance, model monitoring, and security control maturity.  
+
 While Horizon Labs demonstrates awareness of baseline security practices, its lack of formal AI risk management and model oversight introduces potential **compliance, reputational, and safety risks**.
 
 | Risk Area                        | Severity  | NIST CSF Domain | NIST AI RMF Function                        | ISO/IEC 42001 Clause          | CIS Control v8.1 | Notes                                     |
@@ -29,7 +30,7 @@ While Horizon Labs demonstrates awareness of baseline security practices, its la
 
 ## 📊 Risk Visualization
 
-![Horizon Labs AI Risk Heatmap](Horizon_Labs_AI_TPRM_Heatmap.png)
+![Horizon Labs AI Risk Heatmap](assets/images/Horizon_Labs_AI_TPRM_Heatmap.png)
 
 **Figure: Horizon Labs AI Supply Chain Risk Heatmap**  
 This visualization maps vendor control gaps across **AI RMF** and **CSF** categories, emphasizing the overlap between traditional cybersecurity and AI system governance.  
