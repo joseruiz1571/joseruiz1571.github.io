@@ -59,21 +59,12 @@ I’m currently developing portfolio projects that engineer compliance automatio
 
 ## Certifications  
 
-- ISO/IEC 27001:2022 Lead Auditor — GRC Mastery (2025)
-- CompTIA Security+ — CompTIA (2025)   
+- ISO/IEC 27001:2022 Lead Auditor — GRC Mastery - 2025
+- CompTIA Security+ — CompTIA - 2025   
 
 ---
 
 ## Projects  
-
-### Third-Party Risk Management Assessment – Horizon Labs (SaaS Vendor)  
-**Description:** Conducted a third-party risk assessment for a scientific data SaaS provider supporting Oscorp’s AI research.  
-**Skills Demonstrated:** Vendor risk assessment | Questionnaire design | Control evaluation | ISO 27001 alignment  
-**Implementation Details:**  
-- Designed and issued security questionnaire aligned with NIST SP 800-30  
-- Analyzed responses and mapped controls to risk register  
-- Drafted summary report with remediation recommendations  
-**Results:** Delivered validated vendor risk profile and control improvement plan.
 
 ### AI Supply-Chain Risk Assessment – Horizon Labs (AI-Enabled SaaS Vendor)
 **Description:** Conducted an AI-focused third-party risk assessment for a SaaS vendor providing ML-driven data analytics to Oscorp’s bioengineering division.
@@ -83,14 +74,14 @@ I’m currently developing portfolio projects that engineer compliance automatio
 - Analyzed vendor maturity using NIST AI RMF’s Govern–Map–Measure–Manage functions and NIST CSF 2.0 domains.
 - Produced AI-aware vendor risk report with heatmap visualization and a remediation roadmap for Responsible AI compliance.
 **Results:** Delivered an integrated AI supply-chain risk profile aligning cybersecurity and Responsible AI oversight.
-AI Supply Chain Risk Heatmap
+![AI Supply Chain Risk Heatmap]
 **Figure:** This heatmap visualizes Horizon Labs’ control gaps across NIST AI RMF functions (Govern, Map, Measure, Manage) and severity levels.
 High-severity risks cluster in Govern (lack of accountability) and Manage (absence of vulnerability management and AI incident response).
 The visualization demonstrates how AI supply chain risk extends beyond cybersecurity to include trustworthiness, transparency, and oversight.
 
 ---
 
-## 🎓 Education  
+## Education  
 
 - **M.A. Library and Information Science (Health Informatics Focus)** — University of Iowa – 2013  
   *Emphasized health informatics and data governance, with coursework in computing foundations (HTML, CSS, JavaScript), database systems (PHP, SQL), information policy, and metadata design (XML, JSON).*  
@@ -100,7 +91,7 @@ The visualization demonstrates how AI supply chain risk extends beyond cybersecu
 
 ---
 
-## 📚 Professional Development  
+## Professional Development  
 
 ### Courses and Training  
 
@@ -144,7 +135,7 @@ The visualization demonstrates how AI supply chain risk extends beyond cybersecu
 
 ---
 
-## 🎯 Career Goals  
+## Career Goals  
 
 In the short term, I aim to build expertise in GRC engineering—designing automated risk and compliance systems for AI and cloud environments. Long-term, I aspire to lead responsible AI governance initiatives that balance innovation, accountability, and public trust.  
 
