@@ -8,7 +8,7 @@
 
 ---
 
-## 🧾 Executive Summary
+## Executive Summary
 
 Horizon Labs provides AI-driven data analytics services supporting Oscorp’s bioengineering research.  
 
@@ -28,7 +28,7 @@ While Horizon Labs demonstrates awareness of baseline security practices, its la
 
 ---
 
-## 📊 Risk Visualization
+## Risk Visualization
 
 ![Horizon Labs AI Risk Heatmap](assets/images/Horizon_Labs_AI_TPRM_Heatmap.png)
 
@@ -39,7 +39,7 @@ High-impact findings cluster in **Govern** (accountability and oversight) and�
 
 ---
 
-## 🧠 Analyst Commentary
+## Analyst Commentary
 
 - **AI Governance Integration:**  
     The lack of formal AI oversight mechanisms—such as a Responsible AI policy or model documentation—creates systemic risk as AI becomes central to Oscorp’s R&D operations.
@@ -53,7 +53,7 @@ High-impact findings cluster in **Govern** (accountability and oversight) and�
 
 ---
 
-## 📈 Recommended Next Steps
+## Recommended Next Steps
 
 1. **Establish a Responsible AI Governance Policy:**  
     Define roles, accountability, and model oversight procedures (AI RMF GOV-1, ISO/IEC 42001 §5.3).
@@ -73,7 +73,7 @@ High-impact findings cluster in **Govern** (accountability and oversight) and�
 
 ---
 
-## 🎓 Learning Reflection
+## Learning Reflection
 
 - Extending a traditional **TPRM engagement into an AI supply chain context** revealed how **AI systems amplify existing vendor risks**—from data handling to accountability gaps.
     
@@ -84,7 +84,7 @@ High-impact findings cluster in **Govern** (accountability and oversight) and�
 
 ---
 
-## 🧩 References
+## References
 
 - [NIST AI Risk Management Framework 1.0](https://www.nist.gov/itl/ai-risk-management-framework)
     
