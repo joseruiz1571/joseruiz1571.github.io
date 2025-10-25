@@ -30,7 +30,7 @@ While Horizon Labs demonstrates awareness of baseline security practices, its la
 
 ## Risk Visualization
 
-![Horizon Labs AI Risk Heatmap](assets/images/Horizon_Labs_AI_TPRM_Heatmap.png)
+![Horizon Labs AI Risk Heatmap](https://joseruiz1571.github.io/assets/images/Horizon_Labs_AI_TPRM_Heatmap.png)
 
 **Figure: Horizon Labs AI Supply Chain Risk Heatmap**  
 This visualization maps vendor control gaps across **AI RMF** and **CSF** categories, emphasizing the overlap between traditional cybersecurity and AI system governance.  
