@@ -125,7 +125,7 @@ I’m currently developing portfolio projects that engineer compliance automatio
 
 **Results:** Delivered an integrated AI supply-chain risk profile aligning cybersecurity and Responsible AI oversight.
 
-[Link to detailed implementation in my GitHub repository](projects/AI_Supply-Chain_Risk_Assessment)
+[Link to detailed implementation in my GitHub repository](projects/AI_Supply-Chain_Risk_Assessment.mg)
 
 ---
 
