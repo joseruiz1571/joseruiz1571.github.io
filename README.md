@@ -38,37 +38,6 @@ I’m currently developing portfolio projects that engineer compliance automatio
 ## Technical Skills
 
 ### AI Governance & Security Frameworks
-- NIST AI Risk Management Framework (NIST AI RMF)
-- ISO/IEC 42001 (AIMS)
-- MITRE ATLAS (Adversarial Threat Landscape)
-- OWASP GenAI Security Project Top 10 for LLM and Generative AI
-- CIS Controls v8.1 (AI Safeguards)
-- EU AI Act & U.S. AI Policy Guidelines
-
-### Governance, Risk & Compliance (GRC)
-- ISO/IEC 27001 (ISMS)
-- NIST Cybersecurity Framework (CSF)
-- Risk Register & Control Testing Development
-- Audit Readiness & Evidence Automation
-- Policy Development & Compliance Mapping
-
-### GRC Engineering & Automation
-- Policy-as-Code (PaC)
-- Risk-and-Compliance-as-Code (RCaC)
-- Continuous Control Monitoring (CCM)
-- Security Assessment Automation
-- Python & Markdown for Documentation and Reporting
-- API & Workflow Integration
-
-### Cloud & Data Security Domains
-- Cloud Security Fundamentals (AWS • Microsoft Azure • Google Cloud • Oracle Cloud Infrastructure)
-- Service Models (SaaS • PaaS • IaaS) & Deployment Models (Public • Private • Hybrid)
-- Identity & Access Management (IAM)
-- Data Governance & Privacy (GDPR • HIPAA • ISO/IEC 27701)
-- Cloud Threats & Misconfigurations
-- Cloud Security Posture Management (CSPM)
-
-### AI Governance & Security Frameworks
 - NIST AI Risk Management Framework (AI RMF)
 - ISO/IEC 42001:2023 (AI Management System – AIMS)
 - MITRE ATLAS (Adversarial Threat Landscape for AI Systems)
